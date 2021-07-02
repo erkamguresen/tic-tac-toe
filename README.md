@@ -1,2 +1,2 @@
-# tic-tac-toe
-a  fun tic tac toe game against the computer 
+# Tic Tac Toe game
+A  fun Tic Tac Toe game against the computer 
