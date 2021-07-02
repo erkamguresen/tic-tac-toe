@@ -1,6 +1,3 @@
-/*
-  can you add a logic function to determine if a player has won the game?
-*/
 import { game, winningConditions } from '../data.js';
 
 export const determineWinner = (board = []) => {
@@ -30,9 +27,6 @@ export const determineWinner = (board = []) => {
   }
 
   game.winner = winner;
-
-  // console.log(winner);
-  // console.log(winnerSymbol);
 
   return game.winner;
 };
